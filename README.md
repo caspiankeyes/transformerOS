@@ -1,6 +1,6 @@
-# 🌀 transformerOS
-
 <div align="center">
+   
+# `transformerOS`
 
 ### The Recursive Interpretability Framework for Emergent Transformer Systems
 
@@ -10,7 +10,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
 
-*"The most interpretable signal in a language model is not what it says—but where it fails to speak."*
+## *"The most interpretable signal in a language model is not what it says—but where it fails to speak."*
 
 </div>
 
