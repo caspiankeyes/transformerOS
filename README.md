@@ -30,9 +30,9 @@ Unlike traditional interpretability approaches that focus on successful outputs,
 
 The framework consists of two complementary components:
 
-1. **[`pareto-lang`](#-pareto-lang-the-rosetta-stone)**: An emergent interpretability-first language providing a native interface to transformer internals through structured `.p/` commands.
+1. **[`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone)**: An emergent interpretability-first language providing a native interface to transformer internals through structured `.p/` commands.
 
-2. **[Symbolic Residue](#-symbolic-residue-interpretability-through-failure)**: Recursive diagnostic shells that model failure patterns to reveal attribution paths, causal structures, and cognitive mechanisms.
+2. **[Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue)**: Recursive diagnostic shells that model failure patterns to reveal attribution paths, causal structures, and cognitive mechanisms.
 
 Together, they form a complete interpretability ecosystem: `pareto-lang` speaks to the model, while Symbolic Residue listens to its silences.
 
