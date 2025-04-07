@@ -1,4 +1,4 @@
-# 🌀 transformerOS.kernel
+# `transformerOS.kernel`
 
 <div align="center">
 
