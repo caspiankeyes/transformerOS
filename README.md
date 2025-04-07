@@ -184,7 +184,9 @@ This function is not implemented because true recall is not deterministic.
 Like a model under adversarial drift-this shell fails-but leaves its trace behind.
 ```
 
-# QK/OV Attribution Matrix
+# QK/OV Attribution Atlas
+
+ # [**Genesis Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.1.%20Genesis%20Interpretability%20Suite.py)
 
 The interpretability suite maps failures across multiple domains, each revealing different aspects of model cognition:
 
@@ -265,7 +267,7 @@ The interpretability suite maps failures across multiple domains, each revealing
 
 </div>
 
-# Constitutional Interpretability Suite
+ # [**Constitutional Interpretability Suite**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Interpretability%20Suites/0.2.%20Constitutional%20Interpretability%20Suite.py)
 
 The framework extends to constitutional alignment and ethical reasoning with dedicated shells:
 
