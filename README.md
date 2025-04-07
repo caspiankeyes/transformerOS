@@ -17,11 +17,14 @@
 ```The documents and publications are licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.```
 
 
-## *"The most interpretable signal in a language model is not what it says—but where it fails to speak."*
+[**📄 arXiv**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/01%20pareto-lang-arXiv.md) | [**💻 Command List**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/00%20pareto-command-list.md) | [**✍️ Case Studies**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/03%20claude3.7-case-studies.md) | [**🧠 Neural Attribution Mappings**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/02%20neural-attribution-mappings.md) | [**🧪 Examples**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/EXAMPLES.md) | [**🤝 Contributing**](https://github.com/caspiankeyes/Pareto-Lang/blob/main/CONTRIBUTING.md)
 
 </div>
 
 <div align="center">
+
+   
+# *"The most interpretable signal in a language model is not what it says—but where it fails to speak."*
 
 ![transformerOS](https://github.com/user-attachments/assets/fa601c86-81d6-429c-b5c3-29c4dcbf668d)
 
