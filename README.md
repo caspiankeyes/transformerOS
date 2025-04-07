@@ -10,15 +10,17 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
 
+# "This repository opens a collaborative dialogue across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a Rosetta Stone."
+
 ## *"The most interpretable signal in a language model is not what it says—but where it fails to speak."*
 
 </div>
 
 <div align="center">
 
-# __```Where collapse reveals cognition. Where drift marks meaning.```__
-
 ![transformerOS](https://github.com/user-attachments/assets/fa601c86-81d6-429c-b5c3-29c4dcbf668d)
+
+# __```Where failure reveals cognition. Where drift marks meaning.```__
 
 </div>
 
@@ -46,9 +48,9 @@ transformerOS is built on three foundational insights:
    
 3. **Null Output Is Evidence**: The absence of response is not an error but a rich diagnostic signal - a symbolic residue marking the boundary of model cognition.
 
-As the README of [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) eloquently states:
+# [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) 
 
-> "This repository opens a collaborative dialogue across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a Rosetta Stone."
+# "This repository opens a collaborative dialogue across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a Rosetta Stone."
 
 # 🧩 System Architecture
 
