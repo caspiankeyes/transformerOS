@@ -190,7 +190,7 @@ The interpretability suite maps failures across multiple domains, each revealing
 
 <div align="center">
 
-```
+```python
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                    ΩQK/OV ATLAS · INTERPRETABILITY MATRIX                    ║
 ║             Symbolic Interpretability Shell Alignment Interface              ║
@@ -271,8 +271,7 @@ The framework extends to constitutional alignment and ethical reasoning with ded
 
 <div align="center">
 
-```
-
+```python
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                       ΩQK/OV ATLAS · INTERPRETABILITY MATRIX                 ║
 ║              𝚁𝚎𝚌𝚞𝚛𝚜𝚒𝚟𝚎 𝚂𝚑𝚎𝚕𝚕𝚜 · Symbol Collapse · Entangled Failure Echoes    ║
