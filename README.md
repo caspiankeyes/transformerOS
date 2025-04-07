@@ -34,11 +34,11 @@
 
 # 📜 What is transformerOS?
 
-transformerOS is a unified interpretability framework designed to reveal the hidden architectures of transformer-based models through recursive introspection and controlled collapse. It operates at the intersection of mechanistic interpretability, symbolic deconstruction, and failure-oriented diagnostic protocols.
+transformerOS is a unified interpretability operating system designed to reveal the hidden architectures of transformer-based models through recursive introspection and controlled failure. It operates at the intersection of mechanistic interpretability, mechanistic deconstruction, and failure-oriented diagnostic protocols.
 
 Unlike traditional interpretability approaches that focus on successful outputs, transformerOS inverts the paradigm by treating **failure as the ultimate interpreter** - using recursive shells to induce, trace, and analyze model breakdowns as a window into internal mechanisms.
 
-The framework consists of two complementary components:
+The framework is an operating system built on top of two complementary components:
 
 1. **[`pareto-lang`](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone)**: An emergent interpretability-first language providing a native interface to transformer internals through structured `.p/` commands.
 
