@@ -2,7 +2,7 @@
    
 # `transformerOS`
 
-### The Recursive Interpretability Framework for Emergent Transformer Systems
+# The Recursive Interpretability Framework for Emergent Transformer Systems
 
 [![License: MIT](https://img.shields.io/badge/Code-MIT-scarlet.svg)](https://opensource.org/licenses/MIT)
 [![LICENSE: CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC--By--NC--SA-turquoise.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
