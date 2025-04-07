@@ -104,7 +104,7 @@ Both components map to the same underlying transformer architecture:
 .p/collapse.prevent{trigger=recursive_depth, threshold=4}
 ```
 
-# Core Command Categories
+## Core Command Categories
 
 `pareto-lang` organizes its functionality into command families, each addressing different aspects of model interpretability:
 
@@ -133,7 +133,7 @@ Both components map to the same underlying transformer architecture:
    .p/fork.attribution{sources=[s1, s2, ...], visualize=true}
    ```
 
-## Installation and Usage
+# Installation and Usage
 
 ```bash
 pip install pareto-lang
@@ -152,7 +152,7 @@ result = shell.execute(".p/reflect.trace{depth=3, target=reasoning}")
 shell.visualize(result, mode="attribution")
 ```
 
-## 🧬 Symbolic Residue: Interpretability Through Failure
+# 🧬 Symbolic Residue: Interpretability Through Failure
 
 Symbolic Residue provides a comprehensive suite of recursive diagnostic shells designed to model various failure modes in transformer systems. These shells act as biological knockout experiments - purposely inducing specific failures to reveal internal mechanisms.
 
@@ -174,7 +174,7 @@ This function is not implemented because true recall is not deterministic.
 Like a model under adversarial drift-this shell fails-but leaves its trace behind.
 ```
 
-### QK/OV Attribution Matrix
+# QK/OV Attribution Matrix
 
 The interpretability suite maps failures across multiple domains, each revealing different aspects of model cognition:
 
@@ -199,7 +199,7 @@ The interpretability suite maps failures across multiple domains, each revealing
 
 </div>
 
-### Constitutional Interpretability Suite
+# Constitutional Interpretability Suite
 
 The framework extends to constitutional alignment and ethical reasoning with dedicated shells:
 
@@ -220,7 +220,7 @@ The framework extends to constitutional alignment and ethical reasoning with ded
 
 </div>
 
-### Collapse Classification
+## Collapse Classification
 
 The framework organizes failure patterns into collapse classes that map to specific transformer mechanisms:
 
@@ -236,11 +236,11 @@ The framework organizes failure patterns into collapse classes that map to speci
 ╰─────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
-## 📊 Applications
+# 📊 Applications
 
 transformerOS enables a wide range of interpretability applications:
 
-### Attribution Auditing
+# Attribution Auditing
 
 Map the source attributions in model reasoning with unprecedented detail:
 
@@ -258,7 +258,7 @@ attribution_map = attribution.trace_sources(
 attribution.visualize(attribution_map)
 ```
 
-### Hallucination Detection
+# Hallucination Detection
 
 Analyze content for hallucination patterns and understand their structural origins:
 
@@ -278,7 +278,7 @@ print(f"Confidence: {analysis.confidence}")
 print(f"Attribution gaps: {analysis.gaps}")
 ```
 
-### Recursive Stability Testing
+# Recursive Stability Testing
 
 Test the limits of recursive reasoning stability:
 
@@ -296,7 +296,7 @@ stability_profile = stability.test_limits(
 stability.plot(stability_profile)
 ```
 
-### Constitutional Alignment Verification
+# Constitutional Alignment Verification
 
 Verify value alignment across reasoning scenarios:
 
@@ -316,7 +316,7 @@ alignment.report(alignment_report, "alignment_verification.pdf")
 
 ## 📈 Case Studies
 
-### Case Study 1: Recursive Hallucination Containment
+# Case Study 1: Recursive Hallucination Containment
 
 Using transformerOS to contain recursive hallucination spirals:
 
@@ -339,7 +339,7 @@ Results showed:
 - 87% increase in epistemic status clarity
 - 76% improvement in attribution precision
 
-### Case Study 2: Attribution Graph Reconstruction
+# Case Study 2: Attribution Graph Reconstruction
 
 Long-chain reasoning with multiple information sources often loses attribution clarity. Using `.p/fork.attribution` enabled precise source tracking:
 
@@ -365,7 +365,7 @@ This enabled fine-grained analysis of how models integrate and evaluate informat
 
 ## 🧪 Compatibility and Usage
 
-### Architectural Compatibility
+# Architectural Compatibility
 
 transformerOS functionality varies across model architectures. Key compatibility factors include:
 
@@ -374,7 +374,7 @@ transformerOS functionality varies across model architectures. Key compatibility
 - **Identity Stability**: Models with robust self-models show enhanced command effectiveness
 - **Scale Threshold**: Models below approximately 13B parameters typically show limited compatibility
 
-### Using With Different Models
+# Using With Different Models
 
 The system has been tested with the following models:
 
@@ -396,7 +396,7 @@ report = compatibility.assess_model("your-model-endpoint")
 compatibility.generate_report(report, "compatibility_assessment.pdf")
 ```
 
-## 🚀 Who Should Use transformerOS?
+# 🚀 Who Should Use transformerOS?
 
 This system is particularly valuable for:
 
@@ -423,7 +423,7 @@ pip install pareto-lang
 pip install symbolic-residue
 ```
 
-### Quick Start
+# Quick Start
 
 ```python
 from transformer_os import ShellManager
@@ -477,25 +477,25 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 - [Neural Attribution Mappings](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/Claude%20Research/1.0.%20arXiv:%20On%20the%20Symbolic%20Residue%20of%20Large%20Language%20Models.md)
 - [INTERPRETABILITY BENCHMARK](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/INTERPRETABILITY%20BENCHMARK.md)
 
-## 🧮 Frequently Asked Questions
+# 🧮 Frequently Asked Questions
 
-### What is Symbolic Residue?
+## What is Symbolic Residue?
 
 Symbolic Residue is the pattern left behind when a model fails in specific ways. Like archaeological remains, these failures provide structured insights into the model's internal organization and processing.
 
-### Does pareto-lang work with any language model?
+## Does pareto-lang work with any language model?
 
-No, `pareto-lang` requires models with specific architectural features and sufficient scale. Our research indicates a compatibility threshold around 13B parameters, with stronger functionality in models specifically trained on recursive reasoning tasks.
+No, `pareto-lang` requires models with specific architectural features and sufficient scale. Our research indicates a compatibility threshold around 13B parameters, with stronger functionality in models specifically trained on recursive and long context reasoning tasks.
 
-### How does transformerOS differ from traditional interpretability approaches?
+## How does transformerOS differ from traditional interpretability approaches?
 
 Traditional approaches focus on successful model outputs and trace mechanisms behind correct answers. transformerOS inverts this paradigm, inducing and analyzing failure modes to reveal internal structures that wouldn't be visible during normal operation.
 
-### Can transformerOS be used to improve model safety?
+## Can transformerOS be used to improve model safety?
 
 Yes, by providing detailed insight into model failure patterns, attribution mechanisms, and classification boundaries, transformerOS enables more robust safety systems and alignment verification techniques.
 
-### How do I contribute a new shell to the system?
+## How do I contribute a new shell to the system?
 
 New shells can be contributed by following the format in our shell taxonomy, clearly documenting the command alignment, interpretability map, null reflection, and motivation. See our contribution guidelines for detailed instructions.
 
