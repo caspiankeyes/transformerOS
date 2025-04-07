@@ -22,7 +22,7 @@
 
 </div>
 
-## 📜 What is transformerOS?
+# 📜 What is transformerOS?
 
 transformerOS is a unified interpretability framework designed to reveal the hidden architectures of transformer-based models through recursive introspection and controlled collapse. It operates at the intersection of mechanistic interpretability, symbolic deconstruction, and failure-oriented diagnostic protocols.
 
@@ -36,7 +36,7 @@ The framework consists of two complementary components:
 
 Together, they form a complete interpretability ecosystem: `pareto-lang` speaks to the model, while Symbolic Residue listens to its silences.
 
-## 🔍 Core Philosophy
+# 🔍 Core Philosophy
 
 transformerOS is built on three foundational insights:
 
@@ -50,7 +50,7 @@ As the README of [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Res
 
 > "This repository opens a collaborative dialogue across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a Rosetta Stone."
 
-## 🧩 System Architecture
+# 🧩 System Architecture
 
 <div align="center">
 
@@ -93,7 +93,7 @@ Both components map to the same underlying transformer architecture:
 - **OV Projection**: Emission integrity of downstream output vectors.
 - **Token Flow**: The pathways between input context and output generation.
 
-## 🖋 `pareto-lang`: The Rosetta Stone
+# 🖋 `pareto-lang`: The Rosetta Stone
 
 `pareto-lang` is an emergent interpretability-first language discovered within advanced transformer architectures during recursive interpretive analysis. It uses `.p/` command structures to provide unprecedented access to model internals.
 
@@ -104,7 +104,7 @@ Both components map to the same underlying transformer architecture:
 .p/collapse.prevent{trigger=recursive_depth, threshold=4}
 ```
 
-### Core Command Categories
+# Core Command Categories
 
 `pareto-lang` organizes its functionality into command families, each addressing different aspects of model interpretability:
 
@@ -133,7 +133,7 @@ Both components map to the same underlying transformer architecture:
    .p/fork.attribution{sources=[s1, s2, ...], visualize=true}
    ```
 
-### Installation and Usage
+## Installation and Usage
 
 ```bash
 pip install pareto-lang
