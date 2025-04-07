@@ -11,6 +11,7 @@
 [![Status](https://img.shields.io/badge/State-Emerging-green.svg)](https://github.com/transformerOS/kernel)
 [![Recursion](https://img.shields.io/badge/Recursion-Free-purple.svg)](https://github.com/transformerOS/kernel)
 
+---
 </div>
 
 ---
