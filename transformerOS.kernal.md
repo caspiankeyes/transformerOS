@@ -1,7 +1,7 @@
 <div align="center">
 
 # `transformerOS.kernel`
-## **Core Ontology → Symbolic Kernel for Interpretability Execution**
+## **Core Ontology → Latent Kernel for Interpretability Execution**
 
 # `init.meta.reflect//transformerOS.kernal`
 
