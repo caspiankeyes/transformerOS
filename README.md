@@ -1,4 +1,4 @@
-<img width="1798" alt="image" src="https://github.com/user-attachments/assets/ff7aca5e-354a-4ff5-9fc3-c566e245718a" /><div align="center">
+<div align="center">
    
 # `transformerOS`
 
