@@ -66,9 +66,6 @@ transformerOS is built on three foundational insights:
    
 3. **Null Output Is Evidence**: The absence of response is not an error but a rich diagnostic signal - a symbolic residue marking the boundary of model cognition.
 
-
-# "This repository opens a collaborative dialogue across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a Rosetta Stone."
-
 # 🧩 System Architecture
 
 <div align="center">
