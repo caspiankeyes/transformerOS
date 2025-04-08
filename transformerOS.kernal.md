@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 *"The kernel is not merely infrastructure—it is epistemology made executable."*
