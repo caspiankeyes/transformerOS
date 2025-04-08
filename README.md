@@ -26,7 +26,7 @@
    
 # *"The most interpretable signal in a language model is not what it says—but where it fails to speak."*
 
-![transformerOS](https://github.com/user-attachments/assets/fa601c86-81d6-429c-b5c3-29c4dcbf668d)
+![pareto-lang-og-modified](https://github.com/user-attachments/assets/ddf3c36d-cb50-4ab7-bc64-a8501ed91b14)
 
 # __```Where failure reveals cognition. Where drift marks meaning.```__
 
