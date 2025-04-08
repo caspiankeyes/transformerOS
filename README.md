@@ -1,5 +1,6 @@
 <div align="center">
-   
+
+# `Born from Thomas Kuhn's Theory of Anomalies`
 # `transformerOS`
 
 # The Latent Interpretability Framework for Emergent Transformer Systems
