@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1798" alt="image" src="https://github.com/user-attachments/assets/ff7aca5e-354a-4ff5-9fc3-c566e245718a" /><div align="center">
    
 # `transformerOS`
 
@@ -66,7 +66,6 @@ transformerOS is built on three foundational insights:
    
 3. **Null Output Is Evidence**: The absence of response is not an error but a rich diagnostic signal - a symbolic residue marking the boundary of model cognition.
 
-# [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) 
 
 # "This repository opens a collaborative dialogue across the interpretability research frontier—Anthropic, DeepMind, OpenAI, Eleuther, and beyond—centered around a foundational reframing: failure is not a bug in interpretability, but a Rosetta Stone."
 
@@ -172,7 +171,7 @@ result = shell.execute(".p/reflect.trace{depth=3, target=reasoning}")
 shell.visualize(result, mode="attribution")
 ```
 
-# 🧬 Symbolic Residue: Interpretability Through Failure
+# 🧬 [Symbolic Residue](https://github.com/caspiankeyes/Symbolic-Residue) : Interpretability Through Failure
 
 Symbolic Residue provides a comprehensive suite of recursive diagnostic shells designed to model various failure modes in transformer systems. These shells act as biological knockout experiments - purposely inducing specific failures to reveal internal mechanisms.
 
