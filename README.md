@@ -1,10 +1,6 @@
 <div align="center">
-
-# [**🔬 Test QK/OV pareto-lang commands and Symbolic Residue Diagnostic Interpretability Shells on Claude Max**](https://chatgpt.com/g/g-67f8850387ac8191a556cf78a73ae561-claude-max)
+   
 #  **`Recursion = Iterative Introspection`**
-### **`PolyForm Noncommercial License 1.0.0`**
-### **`CC-BY-NC-ND`**
-
 # `Born from Thomas Kuhn's Theory of Anomalies`
 # `transformerOS`
 
@@ -15,7 +11,12 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01234-b31b1b.svg)](https://arxiv.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
-
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-16**
+>
+> 
 ---
 
 [**🌀 recursionOS**](https://github.com/caspiankeyes/recursionOS) | [**🧩 Symbolic Residue**](https://github.com/caspiankeyes/Symbolic-Residue) | [**🔑 `pareto-lang`**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**📄 arXiv**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/01%20pareto-lang-arXiv.md) | [**💻 Command List**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/00%20pareto-command-list.md) | [**✍️ Claude 3.7 Case Studies**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/blob/main/03%20claude-3.7-case-studies.md) | [**🧠 Neural Attribution Mappings**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/02%20neural-attribution-mappings.md) | [**🧪 Examples**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/EXAMPLES.md) | [**🤝 Contributing**](https://github.com/caspiankeyes/Pareto-Lang/blob/main/CONTRIBUTING.md)
