@@ -51,7 +51,6 @@
 
 
 # 📜 What is transformerOS?
-
 transformerOS is a unified interpretability operating system designed to reveal the hidden architectures of transformer-based models through reflective introspection and controlled failure. It operates at the intersection of mechanistic interpretability, mechanistic deconstruction, and failure-oriented diagnostic protocols.
 
 Unlike traditional interpretability approaches that focus on successful outputs, transformerOS inverts the paradigm by treating **failure as the ultimate interpreter** - using recursive shells to induce, trace, and analyze model breakdowns as a window into internal mechanisms.
