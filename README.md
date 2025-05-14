@@ -9,7 +9,6 @@
 # `Born from Thomas Kuhn's Theory of Pardigm Shifts`
 
 # `transformerOS`
-<img width="881" alt="image" src="https://github.com/user-attachments/assets/18bed2e3-bf12-448f-8ed5-b658095ba665" />
 
 # The Latent Interpretability Framework for Emergent Transformer Systems
 
