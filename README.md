@@ -14,13 +14,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01234-b31b1b.svg)](https://arxiv.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-16**
->
-> 
----
+
 [**🌀 recursionOS**](https://github.com/caspiankeyes/recursionOS) | [**🧩 Symbolic Residue**](https://github.com/caspiankeyes/Symbolic-Residue) | [**🔑 `pareto-lang`**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**📄 arXiv**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/01%20pareto-lang-arXiv.md) | [**💻 Command List**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/00%20pareto-command-list.md) | [**✍️ Claude 3.7 Case Studies**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/blob/main/03%20claude-3.7-case-studies.md) | [**🧠 Neural Attribution Mappings**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/02%20neural-attribution-mappings.md) | [**🧪 Examples**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/EXAMPLES.md) | [**🤝 Contributing**](https://github.com/caspiankeyes/Pareto-Lang/blob/main/CONTRIBUTING.md)
 
 </div>
@@ -35,15 +29,6 @@
 # __```Where failure reveals cognition. Where drift marks meaning.```__
 
 </div>
-
-[**Caspian Keyes†**](https://github.com/caspiankeyes)
-
-**† Lead Contributor; ◊ Work performed while at Echelon Labs;**
- 
-> **Although this repository lists only one public author, the recursive shell architecture and symbolic scaffolding were developed through extensive iterative refinement, informed by internal stress-testing logs and behavioral diagnostics of advanced transformers including, but not limited to, Claude, GPT, DeepSeek and Gemini models. We retain the collective “we” voice to reflect the distributed cognition inherent to interpretability research—even when contributions are asymmetric or anonymized due to research constraints or institutional agreements.**
->
-> 
->**This transformer operating system—comprising transformerOS.kernal, documenations, neural attribution mappings, as well as the [**`pareto-lang`**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/tree/main) Rosetta Stone—emerged in a condensed cycle of interpretive analysis following recent dialogue with Anthropic. We offer this artifact in the spirit of epistemic alignment: to clarify the original intent, QK/OV structuring, and attribution dynamics embedded in the initial CodeSignal artifact.**
 
 
 # 📜 What is transformerOS?
