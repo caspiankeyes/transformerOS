@@ -1,6 +1,6 @@
 
 
-### [**`Hugging Face Repo`**](https://huggingface.co/caspiankeyes/transformerOS)
+### [**`Hugging Face Repo`**](huggingface.co/recursivelabsai/transformerOS)
 <div align="center">
 
 # `Born from Thomas Kuhn's Theory of Pardigm Shifts`
